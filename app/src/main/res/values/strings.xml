@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project-20210413-TrungLuu-NYCschools</string>
+    <string name="default_school_name">Default School Name</string>
+    <string name="num_of_sat_test_takers">Num of SAT Test Takers: %s</string>
+    <string name="sat_critical_reading_avg_score">SAT Critical Reading Avg Score: %s</string>
+    <string name="sat_math_avg_score">SAT Math Avg Score: %s</string>
+    <string name="sat_writing_avg_score">SAT Writing Avg Score: %s</string>
+</resources>
